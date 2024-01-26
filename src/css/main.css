@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/*Grund inställningar på sidans innehåll*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    max-width: 1920px;
+    overflow-x: hidden;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+fieldset {
+    border: none;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
