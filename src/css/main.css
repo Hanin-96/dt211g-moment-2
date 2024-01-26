@@ -22,8 +22,22 @@ body {
 
 fieldset {
     border: none;
+    margin-bottom: 2rem;
 }
 
 h1 {
     margin-bottom: 2rem;
+}
+
+.table-names {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.table-names td {
+    padding: 2rem;
+}
+
+table tbody td {
+    padding: 0 1rem 1rem 2rem;
 }
